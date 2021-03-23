@@ -3,3 +3,4 @@ Git is free software
 Create a new branch is quick
 <<<<<<< HEAD
 Creating a new branch is quick and simple
+Menage branch
